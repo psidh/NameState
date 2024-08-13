@@ -15,7 +15,7 @@ It's known for its fast development, expressive UI, and smooth performance.
 3. `State Management`: Flutter provides various mechanisms for managing the state of your app, ensuring your UI updates whenever the data changes.
 4. `Hot Reload`: Instantly see changes in your app without losing the app's state.
 
-![title]("assets/image1.png")
+![Image](Images/image1.png)
 
 ## Code Explanation
 
